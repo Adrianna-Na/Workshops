@@ -8,4 +8,4 @@ Jak zacząć swoją przygodę z Markdown? Miej przy sobie ten dokument:
 
 Więcej informacji o Markdown znajdziesz tutaj: <http://rmarkdown.rstudio.com>. Szczególnie polecamy zajrzeć do galerii, można tu znaleść bardzo fajne przykłady: <http://rmarkdown.rstudio.com/gallery.html>
 
-A co do **Shiny**, pomoże wam ona w stworzeniu interaktywnych aplikacji, które uczynią pracę z danymi jeszcze przyjemniejszą. Zobaczcie koniecznie jakie cuda można stworzyć przy użyciu tej paczki: <https://shiny.rstudio.com/gallery/>
+A co do **Shiny**, pomoże wam w stworzeniu interaktywnych aplikacji, które uczynią pracę z danymi jeszcze przyjemniejszą. Zobaczcie koniecznie jakie cuda można stworzyć przy użyciu tej paczki: <https://shiny.rstudio.com/gallery/>
