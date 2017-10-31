@@ -20,7 +20,7 @@ model <- lm(price ~ carat + cut + clarity + color, data = diamonds)
 summary(model)$r.squared
 ```
 
-# £adny wykres
+# Super wykres
 
 ```{r warning=FALSE, message=FALSE}
 library(ggplot2)
@@ -56,11 +56,11 @@ library(d3heatmap)
 d3heatmap(mtcars, scale = "column", colors = "Spectral", dendrogram = "none")
 ```
 
-# Za³¹czanie kodu z innego jêzyka programowania
+# Kod w innym jezyku programowania
 
 ```{python}
-def greet(imiê):
-    print('Hej', imiê)
+def greet(imie):
+    print('Hej', imie)
 
 greet('Olga')
 greet('Ada')
