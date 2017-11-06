@@ -58,7 +58,10 @@ d3heatmap(mtcars, scale = "column", colors = "Spectral", dendrogram = "none")
 
 # Kod w innym jezyku programowania
 
-```{python}
+```{python, engine.path = 'C:/Users/Adrianna/Anaconda3/python'}
+import sys
+print (sys.version)
+
 def greet(imie):
     print('Hej', imie)
 
