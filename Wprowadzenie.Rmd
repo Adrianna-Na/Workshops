@@ -1,4 +1,4 @@
-# Przyk³ad Markdown
+# Przyklad Markdown
 
 *Oto nasz pierwszy dokument **Markdown**.*
 
@@ -12,7 +12,7 @@ data("diamonds")
 
 ## Podsumowanie informacji o zmiennych:
 
-Statystyki dotycz¹ce zmiennych:
+Statystyki dotyczace zmiennych:
 
 * carat
 * price
@@ -30,7 +30,7 @@ summary(diamonds)[,c(1,2,4,7)]
 ggplot(diamonds, aes(x=carat, y=price, color=clarity, size=cut)) + geom_point()
 ```
 
-#### Wykres gêstoœci:
+#### Wykres gestosci:
 ```{r fig.width=8, fig.height=5,}
 ggplot(diamonds, aes(x=price, color=cut)) + geom_density()
 ```
